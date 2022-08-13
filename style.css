@@ -8,10 +8,10 @@
   padding: 0;
   margin: 0;
   user-select: none;
-  scroll-behavior: smooth;
 }
 body{
   background: var(--body);
+  scroll-behavior: smooth;
 }
 nav{
   display: flex;
